@@ -1,0 +1,33 @@
+.links:hover {
+    transition-duration: 300ms;
+    text-decoration: none;
+    font-size: inherit;
+    scale: 1.1;
+    color: #744c96;
+    font-weight: inherit;
+}
+
+.nav-button:hover {
+    transition-duration: 300ms;
+    border: none;
+    margin: 0;
+    background: none;
+    color: #744c96;
+    scale: 1.1;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+
+.logo:hover {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    margin: 12px 0;
+    scale: 1.1;
+    transition-duration: 400ms;
+    min-width: 55px;
+    border-radius: 8px;
+    background: rgb(87, 14, 105);
+    background: linear-gradient(90deg, rgba(87, 14, 105, 1) 0%, rgba(48, 22, 75, 1) 65%);
+}
